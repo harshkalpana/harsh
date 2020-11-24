@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Tables</title>
+	<link rel="stylesheet" href="mainn.CSS" type="text/CSS"  media="screen,projection" />
+</head>
+<body>
+	<h1>Groceries</h1>
+	<table>
+		<tr>
+			<th>Item Name</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Aisle Number</th>
+		</tr>
+		<tr>
+			<td>Milk</td>
+			<td>$3.00</td>
+			<td>1</td>
+			<td>A3</td>
+		</tr>
+		<tr>
+			<td>Whole Wheat Bread</td>
+			<td>$2.00</td>
+			<td>1</td>
+			<td>A5</td>
+		</tr>
+		<tr>
+			<td>Carrots</td>
+			<td>$3.50</td>
+			<td>1</td>
+			<td>C2</td>
+		</tr>
+		<tr>
+			<td>Apples</td>
+			<td>$3.11</td>
+			<td>1</td>
+			<td>C3</td>
+		</tr>
+		<tr>
+			<td>Orange</td>
+			<td>$2.30</td>
+			<td>3</td>
+			<td>B3</td>
+		</tr>
+		<tr>
+			<td>Green Tea</td>
+			<td>$2.40</td>
+			<td>3</td>
+			<td>D3</td>
+		</tr>
+	<tr>
+			<td>Olives</td>
+			<td>$4.30</td>
+			<td>8</td>
+			<td>B2</td>
+		</tr>
+	<tr>
+			<td>Almond</td>
+			<td>$2.36</td>
+			<td>10</td>
+			<td>B1</td>
+		</tr>
+	<tr>
+			<td>Curd</td>
+			<td>$2.30</td>
+			<td>50</td>
+			<td>B3</td>
+		</tr>
+	<tr>
+			<td>Grapes</td>
+			<td>$4.00</td>
+			<td>3</td>
+			<td>E3</td>
+		</tr>
+	
+	</table>
+
+</body>
+</html>
